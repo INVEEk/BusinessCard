@@ -24,6 +24,7 @@
           <div class="street">Ul. Długa 28/m14</div>
           <div class="icon-e-mail"><i class="fa fa-envelope" style="font-size: 120%""></i>
           </div>
+          <div class="e-mail">AlekKowalski@twojemail.com</div>
           <div class="icon-phone"</div><i class="fa fa-phone" style="font-size: 120%"></i>
           </div>
         </div>
