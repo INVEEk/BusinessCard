@@ -8,3 +8,29 @@
   <link href="style.css" rel="stylesheet" type="text/css">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 </head>
+<body>
+  <div class="root">
+    <img class="photo" src="https://si-interactive.s3.amazonaws.com/prod/plansponsor-com/wp-content/uploads/2023/05/12125151/PSCIO-051223-Milliman-hires-Ryan-Falls-400px-web.jpg" alt="Profile phot">
+    <div class="content-wrapper">
+      <div class="name">
+        <div class="color-white first-name">Aleksander</div>
+        <div class="color-white upper-cased surname"><b>Kowalski</b></div>
+        <div class="position upper-cased">Stanowisko</div>
+      </div>
+      <div class="contact color-white">
+        <div class="icons">
+          <div class="icon-house"><i class="fa fa-home" style="font-size:120%"></i>
+          </div>
+          <div class="street">Ul. Długa 28/m14</div>
+          <div class="icon-e-mail"><i class="fa fa-envelope" style="font-size: 120%""></i>
+          </div>
+          <div class="icon-phone"</div><i class="fa fa-phone" style="font-size: 120%"></i>
+          </div>
+        </div>
+      </div>
+    </div>
+</div>
+  <script src="script.js"></script>
+</body>
+
+</html>
