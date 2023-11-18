@@ -5,7 +5,7 @@ html {
 
 .root {
     display: flex;
-    height: 325px;
+    height: 326px;
     width: 500px;
 }
 
@@ -18,17 +18,16 @@ html {
 }
 
 .content-wrapper {
-    display: flex;
-    flex-direction: column;
+    display: block;
     height: 100%;
     width: 60%;
 }
 
 .name {
-    height: 50%;
+    height: 163px;
     width: auto;
     background-color: rgb(6, 6, 20);
-    border-bottom: 1px solid white;
+    border-bottom: 2px solid white;
     border-top-right-radius: 10px;
     padding-left: 15px;
 }
@@ -48,13 +47,6 @@ html {
     padding-bottom: 30px;
 }
 
-.contact {
-    height: 50%;
-    width: 100%;
-    background-color: rgb(39, 56, 66);
-    border-bottom-right-radius: 10px;
-}
-
 .upper-cased {
     text-transform: uppercase;
 }
@@ -71,29 +63,35 @@ html {
     border-bottom-left-radius: 10px;
 }
 
-.icon-house {
+.contact {
+    height: 116px;
+    width: auto;
+    background-color: rgb(39, 56, 66);
+    border-bottom-right-radius: 10px;
+    padding-top: 30px;
+    padding-left: 15px;
+    padding-bottom: 15px;
+}
+
+.address {
+    width: auto;
     height: 33.3%;
-    width: 9%;
-    padding: 20px 10px 5px 20px;
-    border-right: 1px white solid;
-    font-size: 120%;
 }
 
-.street {
+.e-mail {
+    width: auto;
     height: 33.3%;
-    width: 90%;
-    padding: 20px 10px 5px 20px;
-    border-bottom: 1px white solid;
 }
 
-.icon-e-mail {
-    padding: 25px 10px 5px 20px;
-    border-right: solid white 1px;
-    font-size: 120%;
+.phone {
+    width: auto;
+    height: 33.3%;
 }
 
-.icon-phone {
-    padding: 25px 10px 5px 20px;
-    border-right: solid white 1px;
-    font-size: 120%;
+.contact-text {
+    padding-left: 15px;
+    font-size: 15px;
+}
+.icon-details {
+    color: rgb(57, 115, 172);
 }
