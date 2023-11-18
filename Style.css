@@ -76,6 +76,7 @@ html {
     width: 9%;
     padding: 20px 10px 5px 20px;
     border-right: 1px white solid;
+    font-size: 120%;
 }
 
 .street {
@@ -88,9 +89,11 @@ html {
 .icon-e-mail {
     padding: 25px 10px 5px 20px;
     border-right: solid white 1px;
+    font-size: 120%;
 }
 
 .icon-phone {
     padding: 25px 10px 5px 20px;
     border-right: solid white 1px;
+    font-size: 120%;
 }
