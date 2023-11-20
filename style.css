@@ -67,13 +67,11 @@ html {
     display: flex;
     flex-direction: column;
     justify-content: space-evenly;
-    height: 116px;
+    height: 161px;
     width: auto;
     background-color: rgb(39, 56, 66);
     border-bottom-right-radius: 10px;
-    padding-top: 30px;
     padding-left: 15px;
-    padding-bottom: 15px;
 }
 
 .address {
