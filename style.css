@@ -77,11 +77,13 @@ html {
 .address {
     width: auto;
     display: flex;
+    font-size: 120%;
 }
 
 .contact-text {
-    padding-left: 15px;
-    font-size: 15px;
+    width: 100%;
+    margin-left: 15px;
+    font-size: 14px;
     border-bottom: 1px white solid;
 }
 .icon-details {
