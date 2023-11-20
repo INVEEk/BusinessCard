@@ -64,6 +64,9 @@ html {
 }
 
 .contact {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
     height: 116px;
     width: auto;
     background-color: rgb(39, 56, 66);
@@ -75,22 +78,13 @@ html {
 
 .address {
     width: auto;
-    height: 33.3%;
-}
-
-.e-mail {
-    width: auto;
-    height: 33.3%;
-}
-
-.phone {
-    width: auto;
-    height: 33.3%;
+    display: flex;
 }
 
 .contact-text {
     padding-left: 15px;
     font-size: 15px;
+    border-bottom: 1px white solid;
 }
 .icon-details {
     color: rgb(57, 115, 172);
