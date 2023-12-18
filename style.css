@@ -77,7 +77,7 @@ html {
 .address {
     width: auto;
     display: flex;
-    font-size: 120%;
+    font-size: 140%;
 }
 
 .contact-text {
@@ -86,6 +86,7 @@ html {
     font-size: 14px;
     border-bottom: 1px white solid;
 }
+
 .icon-details {
     color: rgb(57, 115, 172);
 }
